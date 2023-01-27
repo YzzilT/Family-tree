@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Person {
 
-    private String name;
+    public String name;
     private String middleName;
     private String lastName;
     private String sex;
